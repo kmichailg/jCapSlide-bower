@@ -3,7 +3,7 @@
   "description": "Bower distribution of jCapSlide",
   "main": [
     "dist/js/jquery.capSlide.js",
-    "dist/css/styles.css"
+    "dist/css/style.css"
   ],
   "moduleType": [],
   "keywords": [
